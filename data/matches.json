@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:11:02+00:00",
+  "updated": "2026-11-15",
   "matches": [
     {
       "team": "kings",
@@ -730,11 +730,107 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-08-21",
+      "opponent": "Coventry City",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2026-08-22",
+      "opponent": "Hull City",
+      "city": "Hull",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-08-29",
+      "opponent": "Aston Villa",
+      "city": "Birmingham",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2026-08-29",
+      "opponent": "Ipswich Town",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-09-05",
+      "opponent": "Chelsea",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-05",
+      "opponent": "Everton",
+      "city": "Liverpool",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-09-12",
+      "opponent": "Sunderland",
+      "city": "Sunderland",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-12",
+      "opponent": "Manchester City",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-09-17",
+      "opponent": "Storhamar",
+      "city": "Hamar",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-09-19",
+      "opponent": "Brighton & Hove Albion",
+      "city": "Brighton",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-09-19",
+      "opponent": "Vålerenga",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-09-19",
       "opponent": "Vegas Golden Knights",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-19",
+      "opponent": "Fulham",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -765,6 +861,22 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-09-24",
+      "opponent": "Narvik",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "narvik",
+      "date": "2026-09-24",
+      "opponent": "Frisk Asker",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2026-09-24",
       "opponent": "Detroit Red Wings",
@@ -772,11 +884,27 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-09-26",
+      "opponent": "Nidaros",
+      "city": "Trondheim",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-09-26",
       "opponent": "Anaheim Ducks",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "nidaros",
+      "date": "2026-09-26",
+      "opponent": "Frisk Asker",
+      "city": "Trondheim",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -793,11 +921,27 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-10-01",
+      "opponent": "Lillehammer",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-10-01",
       "opponent": "Columbus Blue Jackets",
       "city": "Columbus",
       "source": "NHL"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-10-03",
+      "opponent": "Stjernen",
+      "city": "Fredrikstad",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -828,11 +972,35 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-10-08",
+      "opponent": "Sparta",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-10-08",
       "opponent": "Dallas Stars",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-10-10",
+      "opponent": "Leeds United",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-10-10",
+      "opponent": "Ringerike",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -847,6 +1015,14 @@
       "opponent": "Utah Mammoth",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-10",
+      "opponent": "Tottenham Hotspur",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -870,11 +1046,35 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-10-15",
+      "opponent": "Lillehammer",
+      "city": "Lillehammer",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2026-10-15",
       "opponent": "Toronto Maple Leafs",
       "city": "Toronto",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-10-17",
+      "opponent": "Nottingham Forest",
+      "city": "Nottingham",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-10-17",
+      "opponent": "Stavanger Oilers",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -891,6 +1091,14 @@
       "source": "NHL"
     },
     {
+      "team": "united",
+      "date": "2026-10-17",
+      "opponent": "Leeds United",
+      "city": "Leeds",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-10-20",
       "opponent": "Washington Capitals",
@@ -905,11 +1113,35 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-10-22",
+      "opponent": "Vålerenga",
+      "city": "Oslo",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-10-22",
       "opponent": "New York Islanders",
       "city": "New York",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-10-24",
+      "opponent": "Everton",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-10-24",
+      "opponent": "Ringerike",
+      "city": "Hønefoss",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -924,6 +1156,14 @@
       "opponent": "Washington Capitals",
       "city": "Washington",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-24",
+      "opponent": "AFC Bournemouth",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -947,6 +1187,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-10-29",
+      "opponent": "Stjernen",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-10-29",
       "opponent": "Ottawa Senators",
@@ -961,6 +1209,22 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-10-31",
+      "opponent": "Liverpool",
+      "city": "Liverpool",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-10-31",
+      "opponent": "Stavanger Oilers",
+      "city": "Stavanger",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-10-31",
       "opponent": "Buffalo Sabres",
@@ -973,6 +1237,14 @@
       "opponent": "Los Angeles Kings",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-31",
+      "opponent": "Chelsea",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -996,11 +1268,27 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-11-07",
+      "opponent": "Hull City",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-11-07",
       "opponent": "Pittsburgh Penguins",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-11-07",
+      "opponent": "Aston Villa",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1022,6 +1310,14 @@
       "opponent": "Tampa Bay Lightning",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-11-12",
+      "opponent": "Sparta",
+      "city": "Sarpsborg",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1052,6 +1348,22 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-11-15",
+      "opponent": "Nidaros",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "nidaros",
+      "date": "2026-11-15",
+      "opponent": "Frisk Asker",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-11-17",
       "opponent": "Boston Bruins",
@@ -1080,6 +1392,38 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-11-20",
+      "opponent": "Storhamar",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-11-20",
+      "opponent": "Molde",
+      "city": "Molde",
+      "source": "Eliteserien 2026",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-11-20",
+      "opponent": "Bodø/Glimt",
+      "city": "Molde",
+      "source": "Eliteserien 2026",
+      "homeAway": "home"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-11-21",
+      "opponent": "Newcastle United",
+      "city": "Newcastle",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-11-21",
       "opponent": "Ottawa Senators",
@@ -1092,6 +1436,38 @@
       "opponent": "Florida Panthers",
       "city": "Miami",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-11-21",
+      "opponent": "Liverpool",
+      "city": "Liverpool",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-11-21",
+      "opponent": "Tromsø",
+      "city": "Tromsø",
+      "source": "Eliteserien 2026",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-11-22",
+      "opponent": "Narvik",
+      "city": "Narvik",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "narvik",
+      "date": "2026-11-22",
+      "opponent": "Frisk Asker",
+      "city": "Narvik",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1108,11 +1484,27 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-11-24",
+      "opponent": "Sparta",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-11-25",
       "opponent": "New York Rangers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-11-26",
+      "opponent": "Lillehammer",
+      "city": "Lillehammer",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1129,11 +1521,59 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-11-28",
+      "opponent": "Manchester City",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-11-28",
+      "opponent": "Vålerenga",
+      "city": "Oslo",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-11-28",
+      "opponent": "KFUM",
+      "city": "Bodø",
+      "source": "Eliteserien 2026",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-11-28",
       "opponent": "Anaheim Ducks",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "molde",
+      "date": "2026-11-28",
+      "opponent": "Rosenborg",
+      "city": "Trondheim",
+      "source": "Eliteserien 2026",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2026-11-28",
+      "opponent": "Brentford",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-11-29",
+      "opponent": "Vålerenga",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -1150,11 +1590,43 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-12-02",
+      "opponent": "Brentford",
+      "city": "Brentford",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2026-12-02",
+      "opponent": "Newcastle United",
+      "city": "Newcastle",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-12-03",
+      "opponent": "Nidaros",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-12-03",
       "opponent": "Minnesota Wild",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "nidaros",
+      "date": "2026-12-03",
+      "opponent": "Frisk Asker",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -1164,6 +1636,14 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-12-04",
+      "opponent": "Viking",
+      "city": "Molde",
+      "source": "Eliteserien 2026",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-12-04",
       "opponent": "Vancouver Canucks",
@@ -1171,11 +1651,59 @@
       "source": "NHL"
     },
     {
+      "team": "viking",
+      "date": "2026-12-04",
+      "opponent": "Molde",
+      "city": "Molde",
+      "source": "Eliteserien 2026",
+      "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-12-05",
+      "opponent": "Tottenham Hotspur",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-12-05",
+      "opponent": "Narvik",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-12-05",
+      "opponent": "Aalesund",
+      "city": "Ålesund",
+      "source": "Eliteserien 2026",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-12-05",
       "opponent": "Utah Mammoth",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "narvik",
+      "date": "2026-12-05",
+      "opponent": "Frisk Asker",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2026-12-05",
+      "opponent": "Coventry City",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1206,6 +1734,14 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-12-12",
+      "opponent": "AFC Bournemouth",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-12-12",
       "opponent": "Vancouver Canucks",
@@ -1218,6 +1754,38 @@
       "opponent": "Anaheim Ducks",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-12-12",
+      "opponent": "Crystal Palace",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-12-13",
+      "opponent": "Sarpsborg 08",
+      "city": "Bodø",
+      "source": "Eliteserien 2026",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-12-13",
+      "opponent": "Fredrikstad",
+      "city": "Fredrikstad",
+      "source": "Eliteserien 2026",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-12-13",
+      "opponent": "HamKam",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1241,6 +1809,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2026-12-17",
+      "opponent": "Ringerike",
+      "city": "Hønefoss",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-12-17",
       "opponent": "Pittsburgh Penguins",
@@ -1255,11 +1831,35 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-12-19",
+      "opponent": "Manchester United",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-12-19",
+      "opponent": "Vålerenga",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-12-19",
       "opponent": "Columbus Blue Jackets",
       "city": "Columbus",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-12-19",
+      "opponent": "Arsenal",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1290,6 +1890,14 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-12-26",
+      "opponent": "Crystal Palace",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-12-26",
       "opponent": "Utah Mammoth",
@@ -1302,6 +1910,22 @@
       "opponent": "New Jersey Devils",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-12-26",
+      "opponent": "Nottingham Forest",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-12-28",
+      "opponent": "Storhamar",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -1318,6 +1942,22 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-12-30",
+      "opponent": "Fulham",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2026-12-30",
+      "opponent": "Stjernen",
+      "city": "Fredrikstad",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-12-30",
       "opponent": "Toronto Maple Leafs",
@@ -1332,6 +1972,22 @@
       "source": "NHL"
     },
     {
+      "team": "united",
+      "date": "2026-12-30",
+      "opponent": "Sunderland",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "arsenal",
+      "date": "2027-01-02",
+      "opponent": "Ipswich Town",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-01-02",
       "opponent": "New Jersey Devils",
@@ -1344,6 +2000,14 @@
       "opponent": "Tampa Bay Lightning",
       "city": "Tampa",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-01-02",
+      "opponent": "Brighton & Hove Albion",
+      "city": "Brighton",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1367,11 +2031,35 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-01-06",
+      "opponent": "Brentford",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-01-06",
       "opponent": "Washington Capitals",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-01-06",
+      "opponent": "Newcastle United",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-01-07",
+      "opponent": "Ringerike",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1381,11 +2069,27 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-01-09",
+      "opponent": "Narvik",
+      "city": "Narvik",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2027-01-09",
       "opponent": "Dallas Stars",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "narvik",
+      "date": "2027-01-09",
+      "opponent": "Frisk Asker",
+      "city": "Narvik",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1416,6 +2120,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-01-14",
+      "opponent": "Stavanger Oilers",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2027-01-14",
       "opponent": "Colorado Avalanche",
@@ -1430,6 +2142,22 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-01-16",
+      "opponent": "Hull City",
+      "city": "Hull",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-01-16",
+      "opponent": "Stjernen",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-01-16",
       "opponent": "Calgary Flames",
@@ -1442,6 +2170,14 @@
       "opponent": "Nashville Predators",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-01-16",
+      "opponent": "Aston Villa",
+      "city": "Birmingham",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -1465,6 +2201,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-01-21",
+      "opponent": "Sparta",
+      "city": "Sarpsborg",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2027-01-21",
       "opponent": "Edmonton Oilers",
@@ -1479,11 +2223,43 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-01-23",
+      "opponent": "Newcastle United",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-01-23",
+      "opponent": "Nidaros",
+      "city": "Trondheim",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2027-01-23",
       "opponent": "Nashville Predators",
       "city": "Nashville",
       "source": "NHL"
+    },
+    {
+      "team": "nidaros",
+      "date": "2027-01-23",
+      "opponent": "Frisk Asker",
+      "city": "Trondheim",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2027-01-23",
+      "opponent": "Liverpool",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -1514,6 +2290,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-01-28",
+      "opponent": "Lillehammer",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-01-28",
       "opponent": "Philadelphia Flyers",
@@ -1526,6 +2310,22 @@
       "opponent": "Vegas Golden Knights",
       "city": "Las Vegas",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2027-01-30",
+      "opponent": "Manchester City",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-01-30",
+      "opponent": "Storhamar",
+      "city": "Hamar",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1542,11 +2342,51 @@
       "source": "NHL"
     },
     {
+      "team": "united",
+      "date": "2027-01-30",
+      "opponent": "Brentford",
+      "city": "Brentford",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2027-02-03",
       "opponent": "New York Islanders",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-02-04",
+      "opponent": "Stavanger Oilers",
+      "city": "Stavanger",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2027-02-06",
+      "opponent": "Liverpool",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2027-02-06",
+      "opponent": "Chelsea",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-02-07",
+      "opponent": "Ringerike",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -1561,6 +2401,22 @@
       "opponent": "St. Louis Blues",
       "city": "St Louis",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2027-02-10",
+      "opponent": "Ipswich Town",
+      "city": "Ipswich",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2027-02-10",
+      "opponent": "Brighton & Hove Albion",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -1605,6 +2461,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-02-18",
+      "opponent": "Stjernen",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-02-18",
       "opponent": "Minnesota Wild",
@@ -1619,6 +2483,22 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-02-20",
+      "opponent": "Fulham",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-02-20",
+      "opponent": "Vålerenga",
+      "city": "Oslo",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2027-02-20",
       "opponent": "Seattle Kraken",
@@ -1631,6 +2511,14 @@
       "opponent": "New Jersey Devils",
       "city": "Newark",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-02-20",
+      "opponent": "Nottingham Forest",
+      "city": "Nottingham",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -1654,6 +2542,22 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-02-25",
+      "opponent": "Narvik",
+      "city": "Narvik",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "narvik",
+      "date": "2027-02-25",
+      "opponent": "Frisk Asker",
+      "city": "Narvik",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-02-26",
       "opponent": "Chicago Blackhawks",
@@ -1666,6 +2570,22 @@
       "opponent": "Ottawa Senators",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2027-02-27",
+      "opponent": "Manchester United",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-02-27",
+      "opponent": "Storhamar",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -1682,6 +2602,14 @@
       "source": "NHL"
     },
     {
+      "team": "united",
+      "date": "2027-02-27",
+      "opponent": "Arsenal",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-03-01",
       "opponent": "Anaheim Ducks",
@@ -1696,6 +2624,14 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-03-03",
+      "opponent": "Crystal Palace",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-03-03",
       "opponent": "Tampa Bay Lightning",
@@ -1703,11 +2639,27 @@
       "source": "NHL"
     },
     {
+      "team": "united",
+      "date": "2027-03-03",
+      "opponent": "Sunderland",
+      "city": "Sunderland",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2027-03-04",
       "opponent": "St. Louis Blues",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "frisk",
+      "date": "2027-03-05",
+      "opponent": "Lillehammer",
+      "city": "Lillehammer",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1724,11 +2676,27 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-03-07",
+      "opponent": "Nidaros",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-03-07",
       "opponent": "Colorado Avalanche",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "nidaros",
+      "date": "2027-03-07",
+      "opponent": "Frisk Asker",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -1752,6 +2720,14 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-03-11",
+      "opponent": "Sparta",
+      "city": "Sarpsborg",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2027-03-11",
       "opponent": "Seattle Kraken",
@@ -1766,11 +2742,27 @@
       "source": "NHL"
     },
     {
+      "team": "frisk",
+      "date": "2027-03-13",
+      "opponent": "Stavanger Oilers",
+      "city": "Asker",
+      "source": "Frisk Asker 2026/27",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2027-03-13",
       "opponent": "Dallas Stars",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-03-13",
+      "opponent": "Everton",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1813,6 +2805,14 @@
       "opponent": "Florida Panthers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-03-20",
+      "opponent": "Manchester City",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -1960,6 +2960,70 @@
       "opponent": "Detroit Red Wings",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-04-10",
+      "opponent": "Hull City",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2027-04-17",
+      "opponent": "Ipswich Town",
+      "city": "Ipswich",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2027-04-24",
+      "opponent": "Crystal Palace",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2027-05-01",
+      "opponent": "Coventry City",
+      "city": "Coventry",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2027-05-08",
+      "opponent": "AFC Bournemouth",
+      "city": "Bournemouth",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2027-05-15",
+      "opponent": "Leeds United",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "united",
+      "date": "2027-05-23",
+      "opponent": "Tottenham Hotspur",
+      "city": "London",
+      "source": "Premier League 2026/27",
+      "homeAway": "away"
+    },
+    {
+      "team": "united",
+      "date": "2027-05-30",
+      "opponent": "Fulham",
+      "city": "Manchester",
+      "source": "Premier League 2026/27",
+      "homeAway": "home"
     }
   ]
 }
