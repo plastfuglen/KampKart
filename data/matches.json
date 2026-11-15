@@ -362,6 +362,15 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-03-05",
+      "opponent": "Bodø/Glimt",
+      "city": "Molde",
+      "homeAway": "home",
+      "competition": "NM 2026",
+      "source": "moldefk.no/resultater; fotball.no"
+    },
+    {
       "team": "sabres",
       "date": "2026-03-05",
       "opponent": "Pittsburgh Penguins",
@@ -381,6 +390,15 @@
       "opponent": "Nashville Predators",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-03-07",
+      "opponent": "Bjarg",
+      "city": "Bergen",
+      "homeAway": "away",
+      "competition": "NM 2026",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "sabres",
@@ -485,6 +503,15 @@
       "opponent": "Vegas Golden Knights",
       "city": "Las Vegas",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-03-18",
+      "opponent": "Aalesund",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "NM 2026",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "kings",
@@ -1206,6 +1233,15 @@
       "homeAway": "home"
     },
     {
+      "team": "viking",
+      "date": "2026-08-18",
+      "opponent": "Dinamo Zagreb",
+      "city": "Zagreb",
+      "homeAway": "away",
+      "competition": "Champions League 2026/27 - qualification",
+      "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
       "team": "glimt",
       "date": "2026-08-19",
       "opponent": "NEC Nijmegen",
@@ -1221,6 +1257,15 @@
       "city": "London",
       "source": "Premier League 2026/27",
       "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-08-22",
+      "opponent": "Midsund",
+      "city": "Midsund",
+      "homeAway": "away",
+      "competition": "NM 2027",
+      "source": "moldefk.no/resultater; fotball.no"
     },
     {
       "team": "united",
@@ -1247,6 +1292,15 @@
       "competition": "NM",
       "homeAway": "away",
       "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "viking",
+      "date": "2026-08-26",
+      "opponent": "Dinamo Zagreb",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "Champions League 2026/27 - qualification",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "arsenal",
@@ -1289,6 +1343,15 @@
       "homeAway": "home"
     },
     {
+      "team": "viking",
+      "date": "2026-09-02",
+      "opponent": "Brodd",
+      "city": "Stavanger",
+      "homeAway": "away",
+      "competition": "NM 2027",
+      "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
       "team": "glimt",
       "date": "2026-09-04",
       "opponent": "Fredrikstad",
@@ -1327,6 +1390,15 @@
       "city": "Molde",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-09-09",
+      "opponent": "Stuttgart",
+      "city": "Stuttgart",
+      "homeAway": "away",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "glimt",
@@ -1376,6 +1448,15 @@
       "city": "Bodø",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-09-16",
+      "opponent": "Trygg/Lade",
+      "city": "Trondheim",
+      "homeAway": "away",
+      "competition": "NM 2027",
+      "source": "moldefk.no/resultater; fotball.no"
     },
     {
       "team": "frisk",
@@ -1553,6 +1634,15 @@
       "source": "NHL"
     },
     {
+      "team": "viking",
+      "date": "2026-10-01",
+      "opponent": "Madla",
+      "city": "Stavanger",
+      "homeAway": "away",
+      "competition": "NM 2027",
+      "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
       "team": "frisk",
       "date": "2026-10-03",
       "opponent": "Stjernen",
@@ -1663,6 +1753,15 @@
       "source": "NHL"
     },
     {
+      "team": "viking",
+      "date": "2026-10-13",
+      "opponent": "Bayern München",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
       "team": "glimt",
       "date": "2026-10-14",
       "opponent": "Borussia Dortmund",
@@ -1746,6 +1845,15 @@
       "opponent": "Philadelphia Flyers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-10-21",
+      "opponent": "Aston Villa",
+      "city": "Birmingham",
+      "homeAway": "away",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "frisk",
@@ -1846,6 +1954,15 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-10-28",
+      "opponent": "Strømsgodset",
+      "city": "Molde",
+      "homeAway": "home",
+      "competition": "NM 2027",
+      "source": "moldefk.no/resultater; fotball.no"
+    },
+    {
       "team": "frisk",
       "date": "2026-10-29",
       "opponent": "Stjernen",
@@ -1943,6 +2060,15 @@
       "opponent": "Ottawa Senators",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-11-04",
+      "opponent": "Sabah",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "sabres",
@@ -2216,6 +2342,15 @@
       "source": "NHL"
     },
     {
+      "team": "viking",
+      "date": "2026-11-25",
+      "opponent": "Atlético Madrid",
+      "city": "Madrid",
+      "homeAway": "away",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
       "team": "frisk",
       "date": "2026-11-26",
       "opponent": "Lillehammer",
@@ -2428,6 +2563,15 @@
       "opponent": "Seattle Kraken",
       "city": "Seattle",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-12-08",
+      "opponent": "Feyenoord",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "glimt",
@@ -2927,6 +3071,15 @@
       "source": "NHL"
     },
     {
+      "team": "viking",
+      "date": "2027-01-20",
+      "opponent": "PSV",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
       "team": "frisk",
       "date": "2027-01-21",
       "opponent": "Sparta",
@@ -3014,6 +3167,15 @@
       "opponent": "Utah Mammoth",
       "city": "Salt Lake City",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2027-01-27",
+      "opponent": "Napoli",
+      "city": "Napoli",
+      "homeAway": "away",
+      "competition": "Champions League 2026/27",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "frisk",
@@ -3334,6 +3496,15 @@
       "city": "Manchester",
       "source": "Premier League 2026/27",
       "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2027-02-28",
+      "opponent": "KFUM",
+      "city": "Stavanger",
+      "homeAway": "home",
+      "competition": "NM 2027",
+      "source": "vikingfotball.no/resultater; uefa.com"
     },
     {
       "team": "kings",
