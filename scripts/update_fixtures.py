@@ -17,31 +17,52 @@ def text(v):
 def norm(s):return re.sub(r"[^a-z0-9]","",str(s).casefold().replace("ø","o").replace("å","a").replace("æ","ae"))
 def soccer():
     games=[]
-    for team,(league,names) in CLUBS.items():
-        try:
-            catalog=get("https://site.api.espn.com/apis/site/v2/sports/soccer/"+league+"/teams?limit=100")
-            entries=catalog.get("sports",[{}])[0].get("leagues",[{}])[0].get("teams",[])
-            found=next((x.get("team",x) for x in entries if norm(x.get("team",x).get("displayName","")) in {norm(n) for n in names}),None)
-            if not found:raise ValueError("Team not found: "+str(names))
-            for season in ([2026,2027] if league=="nor.1" else [2025,2026]):
-                url=f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/teams/{found['id']}/schedule?season={season}&limit=500"
+    # ESPN season-wide scoreboards avoid relying on the team catalog endpoint.
+    for league in ("nor.1","eng.1"):
+        for season in (2026,2027) if league=="nor.1" else (2025,2026):
+            try:
+                url=f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/scoreboard?dates={season}&limit=1000"
                 payload=get(url)
+                events=payload.get("events",[])
+                print("scoreboard",league,season,len(events))
+                for event in events:
+                    date=str(event.get("date",""))[:10]
+                    if not ("2026-01-01"<=date<="2027-12-31"):continue
+                    sides=(event.get("competitions") or [{}])[0].get("competitors",[])
+                    if len(sides)<2:continue
+                    for team,(target_league,names) in CLUBS.items():
+                        if target_league!=league:continue
+                        ours=next((x for x in sides if norm(x.get("team",{}).get("displayName","")) in {norm(n) for n in names}),None)
+                        if ours is None:continue
+                        theirs=next((x for x in sides if x is not ours),None)
+                        if theirs is None:continue
+                        opponent=theirs.get("team",{}).get("displayName","")
+                        city=HOME[team] if ours.get("homeAway")=="home" else (NOR if league=="nor.1" else ENG).get(opponent)
+                        if city:games.append({"team":team,"date":date,"opponent":opponent,"city":city,"source":"ESPN "+league})
+            except Exception as e:print("ERROR scoreboard",league,season,e)
+    # Fallback: fetch team schedules directly by ESPN's stable club IDs.
+    # ESPN soccer team IDs: Arsenal 359, Manchester United 360.
+    ids={"arsenal":"359","united":"360"}
+    for team,tid in ids.items():
+        for season in (2025,2026):
+            try:
+                url=f"https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams/{tid}/schedule?season={season}&limit=500"
+                payload=get(url)
+                print("team schedule",team,season,len(payload.get("events",[])))
                 for event in payload.get("events",[]):
                     date=str(event.get("date",""))[:10]
                     if not ("2026-01-01"<=date<="2027-12-31"):continue
-                    comp=(event.get("competitions") or [{}])[0]
-                    sides=comp.get("competitors",[])
-                    ours=next((x for x in sides if str(x.get("team",{}).get("id"))==str(found["id"])),None)
+                    sides=(event.get("competitions") or [{}])[0].get("competitors",[])
+                    ours=next((x for x in sides if str(x.get("team",{}).get("id",""))==tid),None)
                     theirs=next((x for x in sides if x is not ours),None)
                     if not ours or not theirs:continue
                     opponent=theirs.get("team",{}).get("displayName","")
-                    if ours.get("homeAway")=="home":city=HOME[team]
-                    else:city=(NOR if league=="nor.1" else ENG).get(opponent)
-                    if not city:continue
-                    games.append({"team":team,"date":date,"opponent":opponent,"city":city,"source":"ESPN "+league})
-                print(team,season,"events",len(payload.get("events",[])))
-        except Exception as e:print("ERROR soccer",team,e)
-    return games
+                    city=HOME[team] if ours.get("homeAway")=="home" else ENG.get(opponent)
+                    if city:games.append({"team":team,"date":date,"opponent":opponent,"city":city,"source":"ESPN eng.1"})
+            except Exception as e:print("ERROR team schedule",team,season,e)
+    # Remove duplicate fixtures returned by multiple ESPN endpoints.
+    unique={(g["team"],g["date"],g["opponent"],g["city"]):g for g in games}
+    return list(unique.values())
 def hockey():
     games=[]
     for team,abbr in [("kings","LAK"),("sabres","BUF")]:
@@ -67,7 +88,7 @@ def main():
     # Preserve manually sourced hockey fixtures; keep older verified entries if provider temporarily fails.
     merged={(g["team"],g["date"],g["opponent"],g["city"]):g for g in existing.get("matches",[]) if g.get("source") not in ("ESPN nor.1","ESPN eng.1","NHL")}
     for g in fresh:merged[(g["team"],g["date"],g["opponent"],g["city"])]=g
-    if not fresh and not merged:raise SystemExit("No fixtures retrieved; refusing to publish empty update")
+    if not fresh and not merged:raise SystemExit("No fixtures retrieved; refusing to publish empty update")\n    print("Counts by team:", {t:sum(g["team"]==t for g in merged.values()) for t in HOME})
     data={"updated":datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),"matches":sorted(merged.values(),key=lambda g:(g["date"],g["team"],g["opponent"]))}
     OUT.parent.mkdir(exist_ok=True,parents=True);OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
     print("Saved",len(data["matches"]),"matches")
