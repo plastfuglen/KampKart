@@ -135,6 +135,15 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-01-20",
+      "opponent": "Manchester City",
+      "city": "Bodø",
+      "competition": "UCL",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "kings",
       "date": "2026-01-20",
       "opponent": "New York Rangers",
@@ -182,6 +191,15 @@
       "opponent": "Toronto Maple Leafs",
       "city": "Toronto",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-01-28",
+      "opponent": "Atlético Madrid",
+      "city": "Madrid",
+      "competition": "UCL",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "kings",
@@ -254,6 +272,24 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-02-18",
+      "opponent": "Inter",
+      "city": "Bodø",
+      "competition": "UCL",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-02-24",
+      "opponent": "Inter",
+      "city": "Milano",
+      "competition": "UCL",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "kings",
       "date": "2026-02-25",
       "opponent": "Vegas Golden Knights",
@@ -308,6 +344,15 @@
       "opponent": "Vegas Golden Knights",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-03-05",
+      "opponent": "Molde",
+      "city": "Molde",
+      "competition": "NM",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "kings",
@@ -366,6 +411,15 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-03-11",
+      "opponent": "Sporting CP",
+      "city": "Bodø",
+      "competition": "UCL",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "sabres",
       "date": "2026-03-12",
       "opponent": "Washington Capitals",
@@ -417,6 +471,15 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-03-17",
+      "opponent": "Sporting CP",
+      "city": "Lisboa",
+      "competition": "UCL",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "sabres",
       "date": "2026-03-17",
       "opponent": "Vegas Golden Knights",
@@ -466,6 +529,15 @@
       "city": "Stavanger",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-03-22",
+      "opponent": "Lillestrøm",
+      "city": "Bodø",
+      "competition": "NM",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "kings",
@@ -751,6 +823,15 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-04-22",
+      "opponent": "KFUM",
+      "city": "Bodø",
+      "competition": "NM",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "kings",
       "date": "2026-04-23",
       "opponent": "Colorado Avalanche",
@@ -853,6 +934,15 @@
       "opponent": "Montréal Canadiens",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-05-09",
+      "opponent": "Brann",
+      "city": "Bodø",
+      "competition": "NM",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "molde",
@@ -1059,6 +1149,15 @@
     },
     {
       "team": "glimt",
+      "date": "2026-08-04",
+      "opponent": "Union Saint-Gilloise",
+      "city": "Brussel",
+      "competition": "UCL qualification",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "glimt",
       "date": "2026-08-08",
       "opponent": "Vålerenga",
       "city": "Oslo",
@@ -1082,6 +1181,15 @@
       "homeAway": "away"
     },
     {
+      "team": "glimt",
+      "date": "2026-08-11",
+      "opponent": "Union Saint-Gilloise",
+      "city": "Bodø",
+      "competition": "UCL qualification",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "viking",
       "date": "2026-08-14",
       "opponent": "Rosenborg",
@@ -1098,6 +1206,15 @@
       "homeAway": "home"
     },
     {
+      "team": "glimt",
+      "date": "2026-08-19",
+      "opponent": "NEC Nijmegen",
+      "city": "Nijmegen",
+      "competition": "UCL qualification",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "arsenal",
       "date": "2026-08-21",
       "opponent": "Coventry City",
@@ -1112,6 +1229,24 @@
       "city": "Hull",
       "source": "Premier League 2026/27",
       "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-08-25",
+      "opponent": "NEC Nijmegen",
+      "city": "Bodø",
+      "competition": "UCL qualification",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-08-26",
+      "opponent": "Fauske/Sprint",
+      "city": "Fauske",
+      "competition": "NM",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "arsenal",
@@ -1192,6 +1327,15 @@
       "city": "Molde",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-09-10",
+      "opponent": "Bayern München",
+      "city": "München",
+      "competition": "UCL",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "arsenal",
@@ -1393,6 +1537,15 @@
       "homeAway": "home"
     },
     {
+      "team": "glimt",
+      "date": "2026-10-01",
+      "opponent": "Rana FK",
+      "city": "Mo i Rana",
+      "competition": "NM",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "sabres",
       "date": "2026-10-01",
       "opponent": "Columbus Blue Jackets",
@@ -1510,6 +1663,15 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-10-14",
+      "opponent": "Borussia Dortmund",
+      "city": "Bodø",
+      "competition": "UCL",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "frisk",
       "date": "2026-10-15",
       "opponent": "Lillehammer",
@@ -1561,6 +1723,15 @@
       "city": "Leeds",
       "source": "Premier League 2026/27",
       "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-10-20",
+      "opponent": "Napoli",
+      "city": "Napoli",
+      "competition": "UCL",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "kings",
@@ -1749,6 +1920,15 @@
       "city": "London",
       "source": "Premier League 2026/27",
       "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-11-03",
+      "opponent": "Lille",
+      "city": "Bodø",
+      "competition": "UCL",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "kings",
@@ -2020,6 +2200,15 @@
       "homeAway": "home"
     },
     {
+      "team": "glimt",
+      "date": "2026-11-24",
+      "opponent": "LASK",
+      "city": "Bodø",
+      "competition": "UCL",
+      "homeAway": "home",
+      "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
       "team": "sabres",
       "date": "2026-11-25",
       "opponent": "New York Rangers",
@@ -2239,6 +2428,15 @@
       "opponent": "Seattle Kraken",
       "city": "Seattle",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-12-09",
+      "opponent": "Lens",
+      "city": "Lens",
+      "competition": "UCL",
+      "homeAway": "away",
+      "source": "glimt.no/resultater; UEFA fixture lists"
     },
     {
       "team": "kings",
