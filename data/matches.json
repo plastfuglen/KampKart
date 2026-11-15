@@ -1392,6 +1392,15 @@
       "homeAway": "home"
     },
     {
+      "team": "arsenal",
+      "date": "2026-09-09",
+      "opponent": "Napoli",
+      "city": "Napoli",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "viking",
       "date": "2026-09-09",
       "opponent": "Stuttgart",
@@ -1408,6 +1417,15 @@
       "competition": "UCL",
       "homeAway": "away",
       "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-10",
+      "opponent": "Sabah",
+      "city": "Manchester",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "arsenal",
@@ -1450,6 +1468,15 @@
       "homeAway": "home"
     },
     {
+      "team": "arsenal",
+      "date": "2026-09-15",
+      "opponent": "Ipswich Town",
+      "city": "Ipswich",
+      "homeAway": "away",
+      "competition": "Carabao Cup",
+      "source": "EFL Carabao Cup 2026/27 results"
+    },
+    {
       "team": "molde",
       "date": "2026-09-16",
       "opponent": "Trygg/Lade",
@@ -1457,6 +1484,15 @@
       "homeAway": "away",
       "competition": "NM 2027",
       "source": "moldefk.no/resultater; fotball.no"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-16",
+      "opponent": "Brighton & Hove Albion",
+      "city": "Manchester",
+      "homeAway": "home",
+      "competition": "Carabao Cup",
+      "source": "EFL Carabao Cup 2026/27 results"
     },
     {
       "team": "frisk",
@@ -1739,6 +1775,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-10-13",
+      "opponent": "Lille",
+      "city": "London",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "kings",
       "date": "2026-10-13",
       "opponent": "Edmonton Oilers",
@@ -1751,6 +1796,15 @@
       "opponent": "Montréal Canadiens",
       "city": "Montreal",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-13",
+      "opponent": "Atlético Madrid",
+      "city": "Madrid",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "viking",
@@ -1840,11 +1894,29 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-10-21",
+      "opponent": "Bayern München",
+      "city": "München",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "sabres",
       "date": "2026-10-21",
       "opponent": "Philadelphia Flyers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-21",
+      "opponent": "Como",
+      "city": "Como",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "viking",
@@ -1938,6 +2010,15 @@
       "opponent": "New York Rangers",
       "city": "New York",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-10-27",
+      "opponent": "Fleetwood Town",
+      "city": "Fleetwood",
+      "homeAway": "away",
+      "competition": "Carabao Cup",
+      "source": "EFL Carabao Cup 2026/27 results"
     },
     {
       "team": "kings",
@@ -2046,6 +2127,24 @@
       "competition": "UCL",
       "homeAway": "home",
       "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "united",
+      "date": "2026-11-03",
+      "opponent": "Roma",
+      "city": "Manchester",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-11-04",
+      "opponent": "Slavia Praha",
+      "city": "Praha",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "kings",
@@ -2318,6 +2417,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-11-24",
+      "opponent": "Borussia Dortmund",
+      "city": "London",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "frisk",
       "date": "2026-11-24",
       "opponent": "Sparta",
@@ -2340,6 +2448,15 @@
       "opponent": "New York Rangers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-11-25",
+      "opponent": "Sporting CP",
+      "city": "Lisboa",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "viking",
@@ -2565,6 +2682,15 @@
       "source": "NHL"
     },
     {
+      "team": "united",
+      "date": "2026-12-08",
+      "opponent": "Leipzig",
+      "city": "Manchester",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "viking",
       "date": "2026-12-08",
       "opponent": "Feyenoord",
@@ -2572,6 +2698,15 @@
       "homeAway": "home",
       "competition": "Champions League 2026/27",
       "source": "vikingfotball.no/resultater; uefa.com"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-12-09",
+      "opponent": "Real Madrid",
+      "city": "London",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "glimt",
@@ -3064,11 +3199,29 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-01-20",
+      "opponent": "Real Betis",
+      "city": "Sevilla",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "sabres",
       "date": "2027-01-20",
       "opponent": "New York Islanders",
       "city": "New York",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-01-20",
+      "opponent": "Bayern München",
+      "city": "Manchester",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "viking",
@@ -3162,11 +3315,29 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2027-01-27",
+      "opponent": "Sabah",
+      "city": "London",
+      "homeAway": "home",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
+    },
+    {
       "team": "sabres",
       "date": "2027-01-27",
       "opponent": "Utah Mammoth",
       "city": "Salt Lake City",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2027-01-27",
+      "opponent": "Villarreal",
+      "city": "Villarreal",
+      "homeAway": "away",
+      "competition": "Champions League",
+      "source": "UEFA 2026/27 official fixtures"
     },
     {
       "team": "viking",
