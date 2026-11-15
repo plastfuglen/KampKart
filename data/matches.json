@@ -1,4 +1,1965 @@
 {
-  "updated": "2026-11-15",
-  "matches": []
+  "updated": "2026-11-15T17:03:28+00:00",
+  "matches": [
+    {
+      "team": "kings",
+      "date": "2026-01-01",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-03",
+      "opponent": "Minnesota Wild",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-03",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-05",
+      "opponent": "Minnesota Wild",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-06",
+      "opponent": "Vancouver Canucks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-07",
+      "opponent": "San Jose Sharks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-08",
+      "opponent": "New York Rangers",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-09",
+      "opponent": "Winnipeg Jets",
+      "city": "Winnipeg",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-10",
+      "opponent": "Edmonton Oilers",
+      "city": "Edmonton",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-10",
+      "opponent": "Anaheim Ducks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-12",
+      "opponent": "Dallas Stars",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-12",
+      "opponent": "Florida Panthers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-14",
+      "opponent": "Vegas Golden Knights",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-14",
+      "opponent": "Philadelphia Flyers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-15",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-16",
+      "opponent": "Anaheim Ducks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-17",
+      "opponent": "Anaheim Ducks",
+      "city": "Anaheim",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-17",
+      "opponent": "Minnesota Wild",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-19",
+      "opponent": "Carolina Hurricanes",
+      "city": "Raleigh",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-20",
+      "opponent": "New York Rangers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-20",
+      "opponent": "Nashville Predators",
+      "city": "Nashville",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-22",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-24",
+      "opponent": "St. Louis Blues",
+      "city": "St Louis",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-24",
+      "opponent": "New York Islanders",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-27",
+      "opponent": "Detroit Red Wings",
+      "city": "Detroit",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-27",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Toronto",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-29",
+      "opponent": "Buffalo Sabres",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-29",
+      "opponent": "Los Angeles Kings",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-01-31",
+      "opponent": "Philadelphia Flyers",
+      "city": "Philadelphia",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-01-31",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-02-01",
+      "opponent": "Carolina Hurricanes",
+      "city": "Raleigh",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-02-02",
+      "opponent": "Florida Panthers",
+      "city": "Miami",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-02-03",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-02-04",
+      "opponent": "Seattle Kraken",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-02-05",
+      "opponent": "Vegas Golden Knights",
+      "city": "Las Vegas",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-02-05",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-02-25",
+      "opponent": "Vegas Golden Knights",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-02-25",
+      "opponent": "New Jersey Devils",
+      "city": "Newark",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-02-26",
+      "opponent": "Edmonton Oilers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-02-27",
+      "opponent": "Florida Panthers",
+      "city": "Miami",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-02-28",
+      "opponent": "Calgary Flames",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-02-28",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-02",
+      "opponent": "Colorado Avalanche",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-03",
+      "opponent": "Vegas Golden Knights",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-05",
+      "opponent": "New York Islanders",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-05",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Pittsburgh",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-07",
+      "opponent": "Montréal Canadiens",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-07",
+      "opponent": "Nashville Predators",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-08",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-09",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-10",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-10",
+      "opponent": "San Jose Sharks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-12",
+      "opponent": "Washington Capitals",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-13",
+      "opponent": "New York Islanders",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-14",
+      "opponent": "New Jersey Devils",
+      "city": "Newark",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-14",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-16",
+      "opponent": "New York Rangers",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-17",
+      "opponent": "Vegas Golden Knights",
+      "city": "Las Vegas",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-19",
+      "opponent": "Philadelphia Flyers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-19",
+      "opponent": "San Jose Sharks",
+      "city": "San Jose",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-21",
+      "opponent": "Buffalo Sabres",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-21",
+      "opponent": "Los Angeles Kings",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-22",
+      "opponent": "Utah Mammoth",
+      "city": "Salt Lake City",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-22",
+      "opponent": "Anaheim Ducks",
+      "city": "Anaheim",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-24",
+      "opponent": "Calgary Flames",
+      "city": "Calgary",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-25",
+      "opponent": "Boston Bruins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-26",
+      "opponent": "Vancouver Canucks",
+      "city": "Vancouver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-27",
+      "opponent": "Detroit Red Wings",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-03-28",
+      "opponent": "Utah Mammoth",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-28",
+      "opponent": "Seattle Kraken",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-03-31",
+      "opponent": "New York Islanders",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-01",
+      "opponent": "St. Louis Blues",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-02",
+      "opponent": "Nashville Predators",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-02",
+      "opponent": "Ottawa Senators",
+      "city": "Ottawa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-04",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-04",
+      "opponent": "Washington Capitals",
+      "city": "Washington",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-06",
+      "opponent": "Nashville Predators",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-06",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-08",
+      "opponent": "New York Rangers",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-09",
+      "opponent": "Vancouver Canucks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-09",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-11",
+      "opponent": "Edmonton Oilers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-13",
+      "opponent": "Seattle Kraken",
+      "city": "Seattle",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-13",
+      "opponent": "Chicago Blackhawks",
+      "city": "Chicago",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-14",
+      "opponent": "Vancouver Canucks",
+      "city": "Vancouver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-15",
+      "opponent": "Dallas Stars",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-16",
+      "opponent": "Calgary Flames",
+      "city": "Calgary",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-19",
+      "opponent": "Colorado Avalanche",
+      "city": "Denver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-19",
+      "opponent": "Boston Bruins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-21",
+      "opponent": "Colorado Avalanche",
+      "city": "Denver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-21",
+      "opponent": "Boston Bruins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-23",
+      "opponent": "Colorado Avalanche",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-23",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-04-26",
+      "opponent": "Colorado Avalanche",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-26",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-04-28",
+      "opponent": "Boston Bruins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-01",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-06",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-08",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-10",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-12",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-14",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-16",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-05-18",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-09-19",
+      "opponent": "Vegas Golden Knights",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-09-21",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Pittsburgh",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-09-22",
+      "opponent": "Utah Mammoth",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-09-22",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-09-23",
+      "opponent": "Anaheim Ducks",
+      "city": "Anaheim",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-09-24",
+      "opponent": "Detroit Red Wings",
+      "city": "Detroit",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-09-26",
+      "opponent": "Anaheim Ducks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-09-26",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-09-30",
+      "opponent": "Colorado Avalanche",
+      "city": "Denver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-01",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-03",
+      "opponent": "San Jose Sharks",
+      "city": "San Jose",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-03",
+      "opponent": "Chicago Blackhawks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-06",
+      "opponent": "Florida Panthers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-06",
+      "opponent": "Minnesota Wild",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-08",
+      "opponent": "Dallas Stars",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-10",
+      "opponent": "Vegas Golden Knights",
+      "city": "Las Vegas",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-10",
+      "opponent": "Utah Mammoth",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-12",
+      "opponent": "Florida Panthers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-13",
+      "opponent": "Edmonton Oilers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-13",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-15",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Toronto",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-17",
+      "opponent": "Boston Bruins",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-17",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-20",
+      "opponent": "Washington Capitals",
+      "city": "Washington",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-21",
+      "opponent": "Philadelphia Flyers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-22",
+      "opponent": "New York Islanders",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-24",
+      "opponent": "New Jersey Devils",
+      "city": "Newark",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-24",
+      "opponent": "Washington Capitals",
+      "city": "Washington",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-26",
+      "opponent": "New York Rangers",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-27",
+      "opponent": "Chicago Blackhawks",
+      "city": "Chicago",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-27",
+      "opponent": "San Jose Sharks",
+      "city": "San Jose",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-29",
+      "opponent": "Ottawa Senators",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-29",
+      "opponent": "Anaheim Ducks",
+      "city": "Anaheim",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-10-31",
+      "opponent": "Buffalo Sabres",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-10-31",
+      "opponent": "Los Angeles Kings",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-04",
+      "opponent": "San Jose Sharks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-04",
+      "opponent": "Ottawa Senators",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-06",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-07",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-08",
+      "opponent": "Vegas Golden Knights",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-10",
+      "opponent": "Nashville Predators",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-11",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-12",
+      "opponent": "New York Islanders",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-12",
+      "opponent": "Chicago Blackhawks",
+      "city": "Chicago",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-14",
+      "opponent": "Calgary Flames",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-14",
+      "opponent": "Dallas Stars",
+      "city": "Dallas",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-17",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-17",
+      "opponent": "Philadelphia Flyers",
+      "city": "Philadelphia",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-19",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Toronto",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-19",
+      "opponent": "Washington Capitals",
+      "city": "Washington",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-21",
+      "opponent": "Ottawa Senators",
+      "city": "Ottawa",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-21",
+      "opponent": "Florida Panthers",
+      "city": "Miami",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-22",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-23",
+      "opponent": "Montréal Canadiens",
+      "city": "Montreal",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-25",
+      "opponent": "New York Rangers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-27",
+      "opponent": "Anaheim Ducks",
+      "city": "Anaheim",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-11-27",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-11-28",
+      "opponent": "Anaheim Ducks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-01",
+      "opponent": "Vegas Golden Knights",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-01",
+      "opponent": "Edmonton Oilers",
+      "city": "Edmonton",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-03",
+      "opponent": "Minnesota Wild",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-03",
+      "opponent": "Calgary Flames",
+      "city": "Calgary",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-04",
+      "opponent": "Vancouver Canucks",
+      "city": "Vancouver",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-05",
+      "opponent": "Utah Mammoth",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-06",
+      "opponent": "Seattle Kraken",
+      "city": "Seattle",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-09",
+      "opponent": "San Jose Sharks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-10",
+      "opponent": "Edmonton Oilers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-11",
+      "opponent": "San Jose Sharks",
+      "city": "San Jose",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-12",
+      "opponent": "Vancouver Canucks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-12",
+      "opponent": "Anaheim Ducks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-14",
+      "opponent": "Ottawa Senators",
+      "city": "Ottawa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-15",
+      "opponent": "Detroit Red Wings",
+      "city": "Detroit",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-15",
+      "opponent": "Calgary Flames",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-17",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Pittsburgh",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-18",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-19",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-20",
+      "opponent": "Buffalo Sabres",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-20",
+      "opponent": "Los Angeles Kings",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-22",
+      "opponent": "Minnesota Wild",
+      "city": "Minneapolis",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-22",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Pittsburgh",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-26",
+      "opponent": "Utah Mammoth",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-26",
+      "opponent": "New Jersey Devils",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-28",
+      "opponent": "Vancouver Canucks",
+      "city": "Vancouver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-28",
+      "opponent": "Detroit Red Wings",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2026-12-30",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2026-12-30",
+      "opponent": "Florida Panthers",
+      "city": "Miami",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-02",
+      "opponent": "New Jersey Devils",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-02",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-04",
+      "opponent": "Philadelphia Flyers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-04",
+      "opponent": "Winnipeg Jets",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-05",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-06",
+      "opponent": "Washington Capitals",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-08",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-09",
+      "opponent": "Dallas Stars",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-09",
+      "opponent": "Carolina Hurricanes",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-11",
+      "opponent": "New York Rangers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-12",
+      "opponent": "New Jersey Devils",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-13",
+      "opponent": "St. Louis Blues",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-14",
+      "opponent": "Colorado Avalanche",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-15",
+      "opponent": "Utah Mammoth",
+      "city": "Salt Lake City",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-16",
+      "opponent": "Calgary Flames",
+      "city": "Calgary",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-16",
+      "opponent": "Nashville Predators",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-18",
+      "opponent": "Montréal Canadiens",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-19",
+      "opponent": "Seattle Kraken",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-20",
+      "opponent": "New York Islanders",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-21",
+      "opponent": "Edmonton Oilers",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-21",
+      "opponent": "Seattle Kraken",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-23",
+      "opponent": "Nashville Predators",
+      "city": "Nashville",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-24",
+      "opponent": "Florida Panthers",
+      "city": "Miami",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-24",
+      "opponent": "Winnipeg Jets",
+      "city": "Winnipeg",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-26",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-27",
+      "opponent": "Utah Mammoth",
+      "city": "Salt Lake City",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-28",
+      "opponent": "Philadelphia Flyers",
+      "city": "Philadelphia",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-28",
+      "opponent": "Vegas Golden Knights",
+      "city": "Las Vegas",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-01-30",
+      "opponent": "Carolina Hurricanes",
+      "city": "Raleigh",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-01-30",
+      "opponent": "Colorado Avalanche",
+      "city": "Denver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-03",
+      "opponent": "New York Islanders",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-08",
+      "opponent": "Dallas Stars",
+      "city": "Dallas",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-09",
+      "opponent": "St. Louis Blues",
+      "city": "St Louis",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-11",
+      "opponent": "Detroit Red Wings",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-13",
+      "opponent": "Chicago Blackhawks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-13",
+      "opponent": "Carolina Hurricanes",
+      "city": "Raleigh",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-15",
+      "opponent": "Calgary Flames",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-15",
+      "opponent": "New York Rangers",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-17",
+      "opponent": "Winnipeg Jets",
+      "city": "Winnipeg",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-18",
+      "opponent": "Minnesota Wild",
+      "city": "Minneapolis",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-18",
+      "opponent": "Carolina Hurricanes",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-20",
+      "opponent": "Seattle Kraken",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-20",
+      "opponent": "New Jersey Devils",
+      "city": "Newark",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-21",
+      "opponent": "Detroit Red Wings",
+      "city": "Detroit",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-24",
+      "opponent": "Montréal Canadiens",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-24",
+      "opponent": "Philadelphia Flyers",
+      "city": "Philadelphia",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-26",
+      "opponent": "Chicago Blackhawks",
+      "city": "Chicago",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-26",
+      "opponent": "Ottawa Senators",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-02-27",
+      "opponent": "Nashville Predators",
+      "city": "Nashville",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-02-27",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-01",
+      "opponent": "Anaheim Ducks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-02",
+      "opponent": "Pittsburgh Penguins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-03",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-04",
+      "opponent": "St. Louis Blues",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-05",
+      "opponent": "Columbus Blue Jackets",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-06",
+      "opponent": "New York Rangers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-07",
+      "opponent": "Colorado Avalanche",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-07",
+      "opponent": "Ottawa Senators",
+      "city": "Ottawa",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-09",
+      "opponent": "Edmonton Oilers",
+      "city": "Edmonton",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-09",
+      "opponent": "Vancouver Canucks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-11",
+      "opponent": "Seattle Kraken",
+      "city": "Seattle",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-12",
+      "opponent": "Detroit Red Wings",
+      "city": "Detroit",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-13",
+      "opponent": "Dallas Stars",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-14",
+      "opponent": "Minnesota Wild",
+      "city": "Minneapolis",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-15",
+      "opponent": "San Jose Sharks",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-16",
+      "opponent": "Winnipeg Jets",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-18",
+      "opponent": "Carolina Hurricanes",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-18",
+      "opponent": "Washington Capitals",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-20",
+      "opponent": "Florida Panthers",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-21",
+      "opponent": "Seattle Kraken",
+      "city": "Seattle",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-21",
+      "opponent": "New York Islanders",
+      "city": "New York",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-23",
+      "opponent": "Vancouver Canucks",
+      "city": "Vancouver",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-23",
+      "opponent": "Boston Bruins",
+      "city": "Boston",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-25",
+      "opponent": "Calgary Flames",
+      "city": "Calgary",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-25",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-27",
+      "opponent": "Edmonton Oilers",
+      "city": "Edmonton",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-28",
+      "opponent": "St. Louis Blues",
+      "city": "St Louis",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-29",
+      "opponent": "Vancouver Canucks",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-03-30",
+      "opponent": "Nashville Predators",
+      "city": "Nashville",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-03-31",
+      "opponent": "Winnipeg Jets",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-04-01",
+      "opponent": "Boston Bruins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-04-02",
+      "opponent": "Colorado Avalanche",
+      "city": "Denver",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-04-03",
+      "opponent": "St. Louis Blues",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-04-03",
+      "opponent": "Toronto Maple Leafs",
+      "city": "Toronto",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-04-05",
+      "opponent": "Tampa Bay Lightning",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-04-06",
+      "opponent": "Anaheim Ducks",
+      "city": "Anaheim",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-04-07",
+      "opponent": "Boston Bruins",
+      "city": "Buffalo",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-04-08",
+      "opponent": "Vegas Golden Knights",
+      "city": "Los Angeles",
+      "source": "NHL"
+    },
+    {
+      "team": "kings",
+      "date": "2027-04-10",
+      "opponent": "Vegas Golden Knights",
+      "city": "Las Vegas",
+      "source": "NHL"
+    },
+    {
+      "team": "sabres",
+      "date": "2027-04-10",
+      "opponent": "Detroit Red Wings",
+      "city": "Buffalo",
+      "source": "NHL"
+    }
+  ]
 }
