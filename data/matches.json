@@ -387,11 +387,27 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-03-14",
+      "opponent": "Rosenborg",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-03-14",
       "opponent": "Toronto Maple Leafs",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-03-14",
+      "opponent": "HamKam",
+      "city": "Hamar",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
     },
     {
       "team": "kings",
@@ -429,11 +445,27 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-03-21",
+      "opponent": "Viking",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2026-03-21",
       "opponent": "Los Angeles Kings",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-03-21",
+      "opponent": "Molde",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -534,6 +566,14 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-04-06",
+      "opponent": "Kristiansund",
+      "city": "Kristiansund",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-04-06",
       "opponent": "Nashville Predators",
@@ -541,11 +581,27 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-04-06",
+      "opponent": "Lillestrøm",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-04-06",
       "opponent": "Tampa Bay Lightning",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-04-06",
+      "opponent": "Vålerenga",
+      "city": "Oslo",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -569,11 +625,35 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-04-11",
+      "opponent": "Viking",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-04-11",
       "opponent": "Edmonton Oilers",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-04-11",
+      "opponent": "Bodø/Glimt",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-04-12",
+      "opponent": "HamKam",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
     },
     {
       "team": "kings",
@@ -597,6 +677,14 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-04-15",
+      "opponent": "Sarpsborg 08",
+      "city": "Sarpsborg",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2026-04-15",
       "opponent": "Dallas Stars",
@@ -611,11 +699,35 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-04-18",
+      "opponent": "Aalesund",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-04-18",
+      "opponent": "Brann",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-04-19",
       "opponent": "Colorado Avalanche",
       "city": "Denver",
       "source": "NHL"
+    },
+    {
+      "team": "molde",
+      "date": "2026-04-19",
+      "opponent": "Start",
+      "city": "Kristiansand",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -653,11 +765,35 @@
       "source": "NHL"
     },
     {
+      "team": "viking",
+      "date": "2026-04-25",
+      "opponent": "Fredrikstad",
+      "city": "Fredrikstad",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-04-26",
+      "opponent": "Lillestrøm",
+      "city": "Lillestrøm",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "kings",
       "date": "2026-04-26",
       "opponent": "Colorado Avalanche",
       "city": "Los Angeles",
       "source": "NHL"
+    },
+    {
+      "team": "molde",
+      "date": "2026-04-26",
+      "opponent": "Vålerenga",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -674,11 +810,35 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-04-30",
+      "opponent": "Start",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-05-01",
       "opponent": "Boston Bruins",
       "city": "Boston",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-05-04",
+      "opponent": "Molde",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-05-04",
+      "opponent": "Bodø/Glimt",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -693,6 +853,14 @@
       "opponent": "Montréal Canadiens",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "molde",
+      "date": "2026-05-10",
+      "opponent": "Tromsø",
+      "city": "Tromsø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
     },
     {
       "team": "sabres",
@@ -716,6 +884,22 @@
       "source": "NHL"
     },
     {
+      "team": "glimt",
+      "date": "2026-05-16",
+      "opponent": "Tromsø",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-05-16",
+      "opponent": "Kristiansund",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "sabres",
       "date": "2026-05-16",
       "opponent": "Montréal Canadiens",
@@ -728,6 +912,190 @@
       "opponent": "Montréal Canadiens",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-05-20",
+      "opponent": "Start",
+      "city": "Kristiansand",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-05-24",
+      "opponent": "Brann",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-05-25",
+      "opponent": "Sarpsborg 08",
+      "city": "Sarpsborg",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-05-29",
+      "opponent": "Rosenborg",
+      "city": "Trondheim",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-05-30",
+      "opponent": "Sandefjord Fotball",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-07-11",
+      "opponent": "Aalesund",
+      "city": "Ålesund",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-07-12",
+      "opponent": "KFUM",
+      "city": "Oslo",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-07-12",
+      "opponent": "Sarpsborg 08",
+      "city": "Sarpsborg",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-07-18",
+      "opponent": "Brann",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-07-18",
+      "opponent": "Sandefjord Fotball",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-07-22",
+      "opponent": "HamKam",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-07-22",
+      "opponent": "Lillestrøm",
+      "city": "Lillestrøm",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-07-26",
+      "opponent": "Sandefjord Fotball",
+      "city": "Sandefjord",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-07-26",
+      "opponent": "KFUM",
+      "city": "Oslo",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-07-26",
+      "opponent": "Aalesund",
+      "city": "Ålesund",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-07-31",
+      "opponent": "Lillestrøm",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-08-01",
+      "opponent": "Start",
+      "city": "Kristiansand",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-08-02",
+      "opponent": "Sarpsborg 08",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-08-08",
+      "opponent": "Vålerenga",
+      "city": "Oslo",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-08-08",
+      "opponent": "Sarpsborg 08",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-08-09",
+      "opponent": "Kristiansund",
+      "city": "Kristiansund",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-08-14",
+      "opponent": "Rosenborg",
+      "city": "Trondheim",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-08-16",
+      "opponent": "Tromsø",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
     },
     {
       "team": "arsenal",
@@ -762,6 +1130,46 @@
       "homeAway": "home"
     },
     {
+      "team": "glimt",
+      "date": "2026-08-30",
+      "opponent": "Rosenborg",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-08-30",
+      "opponent": "Vålerenga",
+      "city": "Oslo",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-08-30",
+      "opponent": "Aalesund",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-09-04",
+      "opponent": "Fredrikstad",
+      "city": "Fredrikstad",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-09-04",
+      "opponent": "Sandefjord Fotball",
+      "city": "Sandefjord",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "arsenal",
       "date": "2026-09-05",
       "opponent": "Chelsea",
@@ -778,6 +1186,14 @@
       "homeAway": "away"
     },
     {
+      "team": "molde",
+      "date": "2026-09-06",
+      "opponent": "KFUM",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "arsenal",
       "date": "2026-09-12",
       "opponent": "Sunderland",
@@ -791,6 +1207,30 @@
       "opponent": "Manchester City",
       "city": "Manchester",
       "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-09-13",
+      "opponent": "HamKam",
+      "city": "Hamar",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-09-13",
+      "opponent": "Kristiansund",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-09-14",
+      "opponent": "Sandefjord Fotball",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
     },
     {
@@ -825,12 +1265,36 @@
       "source": "NHL"
     },
     {
+      "team": "molde",
+      "date": "2026-09-19",
+      "opponent": "Aalesund",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "united",
       "date": "2026-09-19",
       "opponent": "Fulham",
       "city": "London",
       "source": "Premier League 2026/27",
       "homeAway": "away"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-09-20",
+      "opponent": "Brann",
+      "city": "Bergen",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "viking",
+      "date": "2026-09-20",
+      "opponent": "Lillestrøm",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
     },
     {
       "team": "sabres",
@@ -1144,6 +1608,14 @@
       "homeAway": "away"
     },
     {
+      "team": "glimt",
+      "date": "2026-10-24",
+      "opponent": "Vålerenga",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
       "team": "kings",
       "date": "2026-10-24",
       "opponent": "New Jersey Devils",
@@ -1163,6 +1635,22 @@
       "opponent": "AFC Bournemouth",
       "city": "Manchester",
       "source": "Premier League 2026/27",
+      "homeAway": "home"
+    },
+    {
+      "team": "molde",
+      "date": "2026-10-25",
+      "opponent": "Fredrikstad",
+      "city": "Molde",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-10-25",
+      "opponent": "Tromsø",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
     },
     {
@@ -1207,6 +1695,22 @@
       "opponent": "Anaheim Ducks",
       "city": "Anaheim",
       "source": "NHL"
+    },
+    {
+      "team": "glimt",
+      "date": "2026-10-30",
+      "opponent": "Viking",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
+    },
+    {
+      "team": "viking",
+      "date": "2026-10-30",
+      "opponent": "Bodø/Glimt",
+      "city": "Bodø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
     },
     {
       "team": "arsenal",
@@ -1291,11 +1795,35 @@
       "homeAway": "home"
     },
     {
+      "team": "glimt",
+      "date": "2026-11-08",
+      "opponent": "Tromsø",
+      "city": "Tromsø",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
+      "team": "molde",
+      "date": "2026-11-08",
+      "opponent": "Sandefjord Fotball",
+      "city": "Sandefjord",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "away"
+    },
+    {
       "team": "sabres",
       "date": "2026-11-08",
       "opponent": "Vegas Golden Knights",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "viking",
+      "date": "2026-11-08",
+      "opponent": "KFUM",
+      "city": "Stavanger",
+      "source": "Eliteserien 2026 - official fixtures/results",
+      "homeAway": "home"
     },
     {
       "team": "kings",
