@@ -88,7 +88,8 @@ def main():
     # Preserve manually sourced hockey fixtures; keep older verified entries if provider temporarily fails.
     merged={(g["team"],g["date"],g["opponent"],g["city"]):g for g in existing.get("matches",[]) if g.get("source") not in ("ESPN nor.1","ESPN eng.1","NHL")}
     for g in fresh:merged[(g["team"],g["date"],g["opponent"],g["city"])]=g
-    if not fresh and not merged:raise SystemExit("No fixtures retrieved; refusing to publish empty update")\n    print("Counts by team:", {t:sum(g["team"]==t for g in merged.values()) for t in HOME})
+    if not fresh and not merged:raise SystemExit("No fixtures retrieved; refusing to publish empty update")
+    print("Counts by team:", {t:sum(g["team"]==t for g in merged.values()) for t in HOME})
     data={"updated":datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),"matches":sorted(merged.values(),key=lambda g:(g["date"],g["team"],g["opponent"]))}
     OUT.parent.mkdir(exist_ok=True,parents=True);OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
     print("Saved",len(data["matches"]),"matches")
