@@ -72,6 +72,24 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-01-11",
+      "opponent": "Portsmouth",
+      "city": "Portsmouth",
+      "competition": "FA Cup",
+      "homeAway": "away",
+      "source": "FBref 2025/26 FA Cup; Sky Sports"
+    },
+    {
+      "team": "united",
+      "date": "2026-01-11",
+      "opponent": "Brighton & Hove Albion",
+      "city": "Manchester",
+      "competition": "FA Cup",
+      "homeAway": "home",
+      "source": "FBref 2025/26 FA Cup; Sky Sports"
+    },
+    {
       "team": "kings",
       "date": "2026-01-12",
       "opponent": "Dallas Stars",
@@ -84,6 +102,15 @@
       "opponent": "Florida Panthers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-01-14",
+      "opponent": "Chelsea",
+      "city": "London",
+      "competition": "Carabao Cup",
+      "homeAway": "home",
+      "source": "EFL results 2026; FBref 2025/26 EFL Cup"
     },
     {
       "team": "kings",
@@ -133,6 +160,15 @@
       "opponent": "Carolina Hurricanes",
       "city": "Raleigh",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-01-20",
+      "opponent": "Inter",
+      "city": "Milano",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "glimt",
@@ -193,6 +229,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-01-28",
+      "opponent": "Kairat Almaty",
+      "city": "London",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
+    },
+    {
       "team": "glimt",
       "date": "2026-01-28",
       "opponent": "Atlético Madrid",
@@ -244,6 +289,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-02-03",
+      "opponent": "Chelsea",
+      "city": "London",
+      "competition": "Carabao Cup",
+      "homeAway": "home",
+      "source": "EFL results 2026; FBref 2025/26 EFL Cup"
+    },
+    {
       "team": "sabres",
       "date": "2026-02-03",
       "opponent": "Tampa Bay Lightning",
@@ -270,6 +324,15 @@
       "opponent": "Pittsburgh Penguins",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-02-15",
+      "opponent": "Wigan Athletic",
+      "city": "London",
+      "competition": "FA Cup",
+      "homeAway": "home",
+      "source": "FBref 2025/26 FA Cup; Sky Sports"
     },
     {
       "team": "glimt",
@@ -378,6 +441,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-03-07",
+      "opponent": "Mansfield Town",
+      "city": "Mansfield",
+      "competition": "FA Cup",
+      "homeAway": "away",
+      "source": "FBref 2025/26 FA Cup; Sky Sports"
+    },
+    {
       "team": "kings",
       "date": "2026-03-07",
       "opponent": "Montréal Canadiens",
@@ -427,6 +499,15 @@
       "opponent": "San Jose Sharks",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-03-11",
+      "opponent": "Bayer Leverkusen",
+      "city": "Leverkusen",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "glimt",
@@ -487,6 +568,15 @@
       "opponent": "New York Rangers",
       "city": "New York",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-03-17",
+      "opponent": "Bayer Leverkusen",
+      "city": "London",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "glimt",
@@ -556,6 +646,15 @@
       "city": "Stavanger",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "home"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-03-22",
+      "opponent": "Manchester City",
+      "city": "London",
+      "competition": "Carabao Cup final (Wembley)",
+      "homeAway": "home",
+      "source": "FBref 2025/26 EFL Cup final"
     },
     {
       "team": "glimt",
@@ -651,6 +750,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-04-04",
+      "opponent": "Southampton",
+      "city": "Southampton",
+      "competition": "FA Cup",
+      "homeAway": "away",
+      "source": "FBref 2025/26 FA Cup; Sky Sports"
+    },
+    {
       "team": "kings",
       "date": "2026-04-04",
       "opponent": "Toronto Maple Leafs",
@@ -701,6 +809,15 @@
       "city": "Oslo",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-04-07",
+      "opponent": "Sporting CP",
+      "city": "Lisboa",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "sabres",
@@ -774,6 +891,15 @@
       "opponent": "Vancouver Canucks",
       "city": "Vancouver",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-04-15",
+      "opponent": "Sporting CP",
+      "city": "London",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "glimt",
@@ -918,6 +1044,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-04-29",
+      "opponent": "Atlético Madrid",
+      "city": "Madrid",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
+    },
+    {
       "team": "glimt",
       "date": "2026-04-30",
       "opponent": "Start",
@@ -947,6 +1082,15 @@
       "city": "Bodø",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-05-05",
+      "opponent": "Atlético Madrid",
+      "city": "London",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "sabres",
@@ -1061,6 +1205,15 @@
       "city": "Trondheim",
       "source": "Eliteserien 2026 - official fixtures/results",
       "homeAway": "away"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-05-30",
+      "opponent": "Paris Saint-Germain",
+      "city": "Budapest",
+      "competition": "Champions League final",
+      "homeAway": "away",
+      "source": "FBref 2025/26 UCL final"
     },
     {
       "team": "molde",
@@ -1392,6 +1545,15 @@
       "homeAway": "home"
     },
     {
+      "team": "arsenal",
+      "date": "2026-09-09",
+      "opponent": "Napoli",
+      "city": "Napoli",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
+    },
+    {
       "team": "viking",
       "date": "2026-09-09",
       "opponent": "Stuttgart",
@@ -1408,6 +1570,15 @@
       "competition": "UCL",
       "homeAway": "away",
       "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-10",
+      "opponent": "Sabah",
+      "city": "Manchester",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "arsenal",
@@ -1450,6 +1621,15 @@
       "homeAway": "home"
     },
     {
+      "team": "arsenal",
+      "date": "2026-09-15",
+      "opponent": "Ipswich Town",
+      "city": "Ipswich",
+      "competition": "Carabao Cup",
+      "homeAway": "away",
+      "source": "EFL results 2026; FBref 2025/26 EFL Cup"
+    },
+    {
       "team": "molde",
       "date": "2026-09-16",
       "opponent": "Trygg/Lade",
@@ -1457,6 +1637,15 @@
       "homeAway": "away",
       "competition": "NM 2027",
       "source": "moldefk.no/resultater; fotball.no"
+    },
+    {
+      "team": "united",
+      "date": "2026-09-16",
+      "opponent": "Brighton & Hove Albion",
+      "city": "Manchester",
+      "competition": "Carabao Cup",
+      "homeAway": "home",
+      "source": "EFL results 2026; FBref 2025/26 EFL Cup"
     },
     {
       "team": "frisk",
@@ -1739,6 +1928,15 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-10-13",
+      "opponent": "Lille",
+      "city": "London",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
+    },
+    {
       "team": "kings",
       "date": "2026-10-13",
       "opponent": "Edmonton Oilers",
@@ -1751,6 +1949,15 @@
       "opponent": "Montréal Canadiens",
       "city": "Montreal",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-13",
+      "opponent": "Atlético Madrid",
+      "city": "Madrid",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "viking",
@@ -1840,11 +2047,29 @@
       "source": "NHL"
     },
     {
+      "team": "arsenal",
+      "date": "2026-10-21",
+      "opponent": "Bayern München",
+      "city": "München",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
+    },
+    {
       "team": "sabres",
       "date": "2026-10-21",
       "opponent": "Philadelphia Flyers",
       "city": "Buffalo",
       "source": "NHL"
+    },
+    {
+      "team": "united",
+      "date": "2026-10-21",
+      "opponent": "Como",
+      "city": "Como",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "viking",
@@ -1938,6 +2163,15 @@
       "opponent": "New York Rangers",
       "city": "New York",
       "source": "NHL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-10-27",
+      "opponent": "Fleetwood Town",
+      "city": "Fleetwood",
+      "competition": "Carabao Cup",
+      "homeAway": "away",
+      "source": "EFL results 2026; FBref 2025/26 EFL Cup"
     },
     {
       "team": "kings",
@@ -2046,6 +2280,24 @@
       "competition": "UCL",
       "homeAway": "home",
       "source": "glimt.no/resultater; UEFA fixture lists"
+    },
+    {
+      "team": "united",
+      "date": "2026-11-03",
+      "opponent": "Roma",
+      "city": "Manchester",
+      "competition": "Champions League",
+      "homeAway": "home",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
+    },
+    {
+      "team": "arsenal",
+      "date": "2026-11-04",
+      "opponent": "Slavia Praha",
+      "city": "Praha",
+      "competition": "Champions League",
+      "homeAway": "away",
+      "source": "UEFA 2026/27 results; FBref 2025/26 UCL"
     },
     {
       "team": "kings",
